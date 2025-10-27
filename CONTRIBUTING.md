@@ -1,10 +1,17 @@
 # Contribution Guidelines
-Toutes les contributions, signalements de bogues, corrections de bogues, améliorations de la documentation, améliorations et idées sont les bienvenues.
 
-# Comment contribuer
-Forkez le dépôt dans votre compte GitHub.
-Créez une nouvelle branche pour vos modifications.
-Faites les changements nécessaires dans le code ou la documentation.
-Enregistrez vos modifications avec un message de commit.
-Envoyez vos changements sur votre dépôt GitHub.
-Créez une Pull Request pour proposer vos amélioration
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+# How to Contribute
+
+Fork the repository to your own GitHub account.
+
+Create a new branch for your changes.
+
+Make the necessary updates to the code or documentation.
+
+Commit your changes with a clear and descriptive message.
+
+Push your changes to your forked repository.
+
+Create a Pull Request to propose your improvements.
